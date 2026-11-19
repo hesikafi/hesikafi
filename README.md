@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hesikhasme&label=Profile%20Views&color=14B8A6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hesikhasme?label=Followers&color=14B8A6&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhesikhasme&query=%24.public_repos&label=Repositories&color=14B8A6&style=for-the-badge" alt="Repositories" />
+  <img src="https://komarev.com/ghpvc/?username=hesikafi&label=Profile%20Views&color=14B8A6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hesikafi?label=Followers&color=14B8A6&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhesikafi&query=%24.public_repos&label=Repositories&color=14B8A6&style=for-the-badge" alt="Repositories" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ hesikafi = {
     "background": "8+ years of creative direction, web3 (Ethereum, Solana)",
     "now":        "independent creative, building products, hunting bugs",
     "curious":    "security, smart contracts, AI agents, anything worth shipping",
-    "rule":       "ship it, learn from it, repeat!.",
+    "rule":       "ship it, learn from it, repeat!",
 }
 ```
 
@@ -61,7 +61,7 @@ hesikafi = {
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html) [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premierepro.html) [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com) [![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve) [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org)
 
 <div align="center">
-  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hesikhasme&layout=compact&langs_count=8&hide=jupyter%20notebook&custom_title=top%20languages&card_width=420&bg_color=0A0A0A&title_color=14B8A6&text_color=FFFFFF&border_color=14B8A6&border_radius=12" width="60%" />
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hesikafi&layout=compact&langs_count=8&hide=jupyter%20notebook&custom_title=top%20languages&card_width=420&bg_color=0A0A0A&title_color=14B8A6&text_color=FFFFFF&border_color=14B8A6&border_radius=12" width="60%" />
 </div>
 
 <a name="currently"></a>
