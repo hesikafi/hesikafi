@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:16213E&height=200&section=header&text=hesikafi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Creative%20Explorer%20·%20AI%20Builder&descSize=24&descAlignY=64" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=200&section=header&text=hesikafi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Creative%20Explorer%20·%20AI%20Builder&descSize=24&descAlignY=64" />
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 ```python
 hesikafi = {
-    "does":     "build software with AI agents — web apps, tools, experiments",
-    "focus":    "AI agents, web apps, and learning how software works",
-    "learning": "TypeScript, smart contracts, AI agent workflows",
+    "does":     "explore and build creative things — AI, training, and security",
+    "focus":    "creative exploration, AI, and data security",
+    "learning": "TypeScript, smart contracts, AI agent workflows, and data security",
     "rule":     "ship it, learn from it, repeat.",
 }
 ```
@@ -31,14 +31,14 @@ hesikafi = {
 
 🎨 **creative tools**
 
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html) [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premierepro.html) [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com) [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html) [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premierepro.html) [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com) [![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve) [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org)
 
 [![Top Langs](https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hesikhasme&layout=compact&langs_count=8&hide=jupyter%20notebook&custom_title=top%20languages&card_width=420&bg_color=0A0A0A&title_color=E5E5E4&text_color=FFFFFF&border_color=16213E&border_radius=12)](https://github.com/hesikhasme)
 
 ## 🌱 currently
 
-- Exploring new things — creative, AI, anything interesting
-- Learning TypeScript + smart contracts in public
+- Exploring new things — creative, AI, security, anything interesting
+- Learning in public — TypeScript, smart contracts, and more
 
 ---
 
