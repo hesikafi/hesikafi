@@ -30,7 +30,7 @@
 
 ## 🧬 about
 
-<img src="oc-chibi-cat.png" width="260" align="right" alt="hesikafi's original character" />
+
 
 ```python
 hesikafi = {
@@ -87,7 +87,7 @@ hesikafi = {
 - 🧭 Always picking up something new: TypeScript, AI agent workflows
 
 <p align="center">
-  <img src="oc-desk.png" width="520" alt="hesikafi's original character at his desk" />
+  <img src="oc-desk.png" width="300" alt="hesikafi's original character at his desk" />
 </p>
 
 🎵 **on repeat**
