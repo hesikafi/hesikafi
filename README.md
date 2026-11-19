@@ -30,6 +30,8 @@
 
 ## 🧬 about
 
+<img src="oc-hero.png" width="260" align="right" alt="hesikafi's original character" />
+
 ```python
 hesikafi = {
     "background": "8+ years of creative direction, web3 (Ethereum, Solana)",
@@ -64,6 +66,17 @@ hesikafi = {
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hesikafi&layout=compact&langs_count=8&hide=jupyter%20notebook&custom_title=top%20languages&card_width=420&bg_color=0A0A0A&title_color=14B8A6&text_color=FFFFFF&border_color=14B8A6&border_radius=12" width="60%" />
 </div>
 
+## 📊 stats
+
+<p align="center">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=hesikafi&show_icons=true&bg_color=0A0A0A&title_color=14B8A6&icon_color=14B8A6&text_color=FFFFFF&border_color=14B8A6&border_radius=12" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesikafi&theme=tokyonight&background=0A0A0A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hesikafi&theme=tokyo-night&bg_color=0A0A0A&color=14B8A6&line=14B8A6&point=14B8A6&hide_border=true" width="100%" />
+</p>
+
 <a name="currently"></a>
 
 ## 🌱 currently
@@ -79,3 +92,5 @@ hesikafi = {
 ---
 
 <div align="center">Open to creative projects · hackathon collabs → <a href="https://x.com/hesikafi">@hesikafi on X</a></div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=28" width="100%" />
