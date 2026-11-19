@@ -23,7 +23,6 @@
 
 <p align="center">
   <a href="https://x.com/hesikafi"><img src="https://img.shields.io/badge/X-@hesikafi-14B8A6?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Dreamlorestory"><img src="https://img.shields.io/badge/YouTube-@Dreamlorestory-14B8A6?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://dev.to/hesikafi"><img src="https://img.shields.io/badge/dev.to-hesikafi-14B8A6?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
