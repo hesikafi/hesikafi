@@ -34,8 +34,7 @@ hesikafi = {
 
 ## 🌱 currently
 
-- Building with AI agents, every day
-- Exploring new ways to earn as an AI builder
+- Exploring new things — creative, AI, anything interesting
 - Learning TypeScript + smart contracts in public
 
 ---
