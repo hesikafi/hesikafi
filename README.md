@@ -35,7 +35,7 @@ hesikafi = {
     "background": "8+ years of creative direction, web3 (Ethereum, Solana)",
     "now":        "independent creative, building products, hunting bugs",
     "curious":    "security, smart contracts, AI agents, anything worth shipping",
-    "rule":       "ship it, learn from it, repeat.",
+    "rule":       "ship it, learn from it, repeat!.",
 }
 ```
 
