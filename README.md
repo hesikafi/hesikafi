@@ -30,7 +30,9 @@
 
 ## 🧬 about
 
-
+<p align="center">
+  <img src="oc-desk.png" width="300" alt="hesikafi's original character at his desk" />
+</p>
 
 ```python
 hesikafi = {
@@ -66,9 +68,6 @@ hesikafi = {
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hesikafi&layout=compact&langs_count=8&hide=jupyter%20notebook&custom_title=top%20languages&card_width=420&bg_color=0A0A0A&title_color=14B8A6&text_color=FFFFFF&border_color=14B8A6&border_radius=12" width="60%" />
 </div>
 
-<p align="center">
-  <img src="oc-desk.png" width="300" alt="hesikafi's original character at his desk" />
-</p>
 
 <a name="currently"></a>
 
