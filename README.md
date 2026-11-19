@@ -12,7 +12,7 @@
 
 ```python
 hesikafi = {
-    "does":     "explore and build creative things — AI, training, and security",
+    "does":     "explore and build creative things — AI, AI training, and security",
     "focus":    "creative exploration, AI, and data security",
     "learning": "TypeScript, smart contracts, AI agent workflows, and data security",
     "rule":     "ship it, learn from it, repeat.",
