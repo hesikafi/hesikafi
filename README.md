@@ -33,14 +33,14 @@
 ```python
 hesikafi = {
     "background": "8+ years of creative direction, web3 (Ethereum, Solana)",
-    "now":        "independent creative, building products, hunting bugs",
+    "now":        "independent creative, building products",
     "curious":    "security, smart contracts, AI agents, anything worth shipping",
     "rule":       "ship it, learn from it, repeat!",
 }
 ```
 
 > [!NOTE]
-> Creative by trade, curious by default. I've spent years building brands and content in web3, and now I build small products and dig into smart contract security. Some projects are useful, some are just for fun.
+> Creative by trade, curious by default. I've spent years building brands and content in web3, and now I build small products and explore how software works. Some projects are useful, some are just for fun.
 
 <a name="projects"></a>
 
@@ -70,7 +70,7 @@ hesikafi = {
 
 - 🎨 Independent creative: web3 brand, visuals, and content
 - 🛠️ Building: ProgramMatcher (Kiroween), LinguaLens (Firebase)
-- 🔐 Hunting: smart contract bugs with Solidity & Foundry
+- 🔐 Exploring: security, smart contracts, and AI agents
 - 🧭 Always picking up something new: TypeScript, AI agent workflows
 
 🎵 **on repeat**
@@ -78,4 +78,4 @@ hesikafi = {
 <p align="center"> <img src="https://record-rotate.arkk200.workers.dev/?width=600&title=on&albums=Kanye%20West:Graduation,Olivia%20Dean:The%20Art%20of%20Loving,Jorja%20Smith:Lost%20%26%20Found,Wolfgang%20Amadeus%20Mozart:Symphony%20No.%2040,aron%21:cozy%20you%20%28and%20other%20nice%20songs%29" alt="record rotate" /> </p>
 ---
 
-<div align="center">Open to creative projects · hackathon collabs · bug bounty talk → <a href="https://x.com/hesikafi">@hesikafi on X</a></div>
+<div align="center">Open to creative projects · hackathon collabs → <a href="https://x.com/hesikafi">@hesikafi on X</a></div>
