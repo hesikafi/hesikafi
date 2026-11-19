@@ -13,7 +13,6 @@
 ```python
 hesikafi = {
     "does":     "build software with AI agents — web apps, tools, experiments",
-    "based":    "Indonesia 🇮🇩",
     "focus":    "AI agents, web apps, and learning how software works",
     "learning": "TypeScript, smart contracts, AI agent workflows",
     "rule":     "ship it, learn from it, repeat.",
