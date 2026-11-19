@@ -75,10 +75,7 @@ hesikafi = {
 
 🎵 **on repeat**
 
-<p align="center">
-  <img src="https://record-rotate.arkk200.workers.dev/?width=600&title=on&albums=Daft%20Punk:Random%20Access%20Memories,Tyler%2C%20The%20Creator:Flower%20Boy,Frank%20Ocean:Blond" alt="record rotate" />
-</p>
-
+<p align="center"> <img src="https://record-rotate.arkk200.workers.dev/?width=600&title=on&albums=Kanye%20West:Graduation,Olivia%20Dean:The%20Art%20of%20Loving,Jorja%20Smith:Lost%20%26%20Found,Wolfgang%20Amadeus%20Mozart:Symphony%20No.%2040,aron%21:cozy%20you%20%28and%20other%20nice%20songs%29" alt="record rotate" /> </p>
 ---
 
 <div align="center">Open to creative projects · hackathon collabs · bug bounty talk → <a href="https://x.com/hesikafi">@hesikafi on X</a></div>
